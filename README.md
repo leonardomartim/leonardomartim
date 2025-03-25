@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leonardomartim
-- 👀 I’m interested in Python 🐍
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, Java and Linux
 - 📫 How to reach me: pmartim.leo@gmail.com
 <!---
 leonardomartim/leonardomartim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
