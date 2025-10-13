@@ -26,9 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomartim)
 
 ---
-
-🖤 _“Curiosity drives creation.”_
-
 <!---
 leonardomartim/leonardomartim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
