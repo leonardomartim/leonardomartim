@@ -21,9 +21,6 @@ The stack and tools I use to build, test, and deploy applications:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
   </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="45" height="45"/> 
-  </a> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/> 
   </a>
@@ -37,3 +34,13 @@ The stack and tools I use to build, test, and deploy applications:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
+
+---
+
+🚧 IN PROGRESS (MY WEBSITE) 🚧
+
+    Vue.js: A progressive JavaScript framework.
+
+    Tailwind CSS: A utility-first CSS framework.
+
+    TypeScript: A typed superset of JavaScript.
