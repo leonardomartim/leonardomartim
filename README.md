@@ -1,8 +1,4 @@
-# Hi there, I'm Leonardo Martim! 👋
-
 ### 🚀 Currently Learning
-I am currently focusing on mastering backend performance and database management:
-
 <p align="left">
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="45" height="45"/> 
@@ -15,8 +11,6 @@ I am currently focusing on mastering backend performance and database management
 ---
 
 ### 🛠 Tools & Technologies
-The stack and tools I use to build, test, and deploy applications:
-
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> 
