@@ -31,10 +31,4 @@
 
 ---
 
-🚧 IN PROGRESS (MY WEBSITE) 🚧
-
-    Vue.js: A progressive JavaScript framework.
-
-    Tailwind CSS: A utility-first CSS framework.
-
-    TypeScript: A typed superset of JavaScript.
+🚧 IN PROGRESS (MY WEBSITE)
