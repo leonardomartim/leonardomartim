@@ -30,5 +30,3 @@
 </p>
 
 ---
-
-🚧 IN PROGRESS (MY WEBSITE)
