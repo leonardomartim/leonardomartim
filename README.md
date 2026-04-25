@@ -1,3 +1,1 @@
-### 🌌
-<p align="center">
-  <img src="https://windowscustomization.com/wp-content/uploads/2018/08/night-aurora.gif" width="6
+<p align="center">  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndm00Z3R6bm9ieXp3eHh5Ynd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2V0JmN0PWc/H70YVf7S5v6eT8eZpA/giphy.gif](https://windowscustomization.com/wp-content/uploads/2018/08/night-aurora.gif)" width="400" /></p> 
