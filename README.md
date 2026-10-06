@@ -1,2 +1,2 @@
-Software Developer - Architecture , B2B/B2C.
+Software Developer,
 Information Systems Bachelor Degree
