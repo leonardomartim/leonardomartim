@@ -51,12 +51,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomartim&layout=compact&theme=dark&title_color=C1121F&text_color=8B949E&bg_color=0d1117&hide_border=true"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardomartim/leonardomartim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardomartim/leonardomartim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" width="100%" src="https://raw.githubusercontent.com/leonardomartim/leonardomartim/output/github-contribution-grid-snake.svg">
-</picture>
-
 <img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
 
 <div align="center">
