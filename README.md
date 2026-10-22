@@ -11,12 +11,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pczllZXFiZHR5Ymt4aGV5dWNxOXl4eWhsbjZxbTV4eHRzeWZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svvIWwpVYz/giphy.gif" height="140px"/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=6B0F1A&height=3&section=header"/>
-
-<div align="center">
-
 ### `//` Tech Stack & Tools
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
